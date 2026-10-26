@@ -192,7 +192,7 @@ window.PORTFOLIO_CONFIG = {
       },
       {
         period: "2025-2026",
-        role: "Executive Body Member",
+        role: "Executive Member",
         responsibilities: [
           "Supported chapter planning and coordination.",
           "Contributed to community initiatives.",
