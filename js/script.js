@@ -134,7 +134,9 @@ function renderPortfolio() {
                 </div>
                 <div class="experience-panel">
                     <header class="experience-organization">
-                        <span aria-hidden="true">CSIT</span>
+                
+                        
+                    <img id="logo" src="./assets/logo.png" alt="CSITAN">
                         <h3>${experience.organization}</h3>
                     </header>
                     <div class="experience-list">

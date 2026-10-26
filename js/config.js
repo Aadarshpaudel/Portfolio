@@ -52,7 +52,7 @@ window.PORTFOLIO_CONFIG = {
       height: 1254,
       alt: "Aadarsh Paudel in a dark suit",
     },
-    caption: "Based in Nepal",
+    caption: "",
     status: "Open to internships",
   },
   about: {
