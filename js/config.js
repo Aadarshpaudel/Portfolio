@@ -128,6 +128,31 @@ window.PORTFOLIO_CONFIG = {
           className: "visual-sajha",
         },
       },
+       {
+        type: "Machine Learning",
+        year: "2026",
+        title: "Movie Review Sentiment Analysis",
+        description:
+           "A machine learning project that analyzes movie reviews and classifies them as positive or negative using Natural Language Processing (NLP), text preprocessing, and sentiment classification techniques",
+        technologies: [ "Python",
+    "NLTK",
+    "TF-IDF",
+    "Logistic Regression",
+    "LSTM",
+    "Machine Learning"],
+        link: {
+          label: "View Notebook",
+          href: "https://colab.research.google.com/drive/1IRAFR7qbyUt5M4FEVYzzgVbGeS6FYeep",
+          style: "primary",
+        },
+        image: {
+          src: "assets/movie.png",
+          width: 1873,
+          height: 885,
+          alt: "Sajha Samasya project title screen",
+          className: "visual-sajha",
+        },
+      },
       {
         type: "Web development",
         year: "2026",
